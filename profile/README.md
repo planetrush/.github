@@ -4,17 +4,13 @@
 </p>
 
 <div align="center">
-  
-![PlanetRush_192x192](https://github.com/user-attachments/assets/3dc0b2e4-20c4-49a1-b0b3-bb207dd20f37)
+
+![PlanetRush_192x192](https://github.com/user-attachments/assets/eaafc401-03a7-4952-8d74-ed51526ad086)
 
 ### Planet Rush: 행성 챌린지 플랫폼
 
 <h4>Planet Rush는 사용자들이 다양한 카테고리의 챌린지에 참여하고 성장할 수 있는 플랫폼입니다.</h4>
 </div>
-
-## 시작하기
-
-https://i11a509.p.ssafy.io
 
 ## 기술 스택
 
@@ -57,7 +53,8 @@ https://i11a509.p.ssafy.io
 
 ## 시스템 아키텍처
 
-![아키텍처_구조](https://github.com/user-attachments/assets/8a2d1be6-a9db-4f0f-b9ae-aeddb4862058)
+![아키텍처](https://github.com/user-attachments/assets/ee107e1a-6f9f-4e17-8238-5699726f355a)
+
 
 ## 주요 기능
 
