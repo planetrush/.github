@@ -10,6 +10,7 @@
 ### Planet Rush: 행성 챌린지 플랫폼
 
 <h4>Planet Rush는 사용자들이 다양한 카테고리의 챌린지에 참여하고 성장할 수 있는 플랫폼입니다.</h4>
+<a href="https://www.youtube.com/watch?v=HkrfResgT-g">서비스 소개 영상 보기</a>
 </div>
 
 ## 기술 스택
